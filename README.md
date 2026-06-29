@@ -17,4 +17,16 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
