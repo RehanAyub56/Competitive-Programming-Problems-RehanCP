@@ -23,6 +23,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0015-3sum) |
@@ -89,6 +90,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
