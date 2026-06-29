@@ -9,6 +9,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +19,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0143-reorder-list) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +45,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | [0005-longest-palindromic-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0015-3sum) |
+| [0143-reorder-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -97,4 +100,8 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
