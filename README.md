@@ -28,6 +28,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | [0011-container-with-most-water](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0073-set-matrix-zeroes) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
@@ -60,6 +61,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
 | ------- |
