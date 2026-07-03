@@ -66,6 +66,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | [0242-valid-anagram](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1021-remove-outermost-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +102,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +113,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | [0242-valid-anagram](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0424-longest-repeating-character-replacement) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Quickselect
 |  |
 | ------- |
