@@ -11,6 +11,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | [0002-add-two-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -149,4 +150,8 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0424-longest-repeating-character-replacement) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
