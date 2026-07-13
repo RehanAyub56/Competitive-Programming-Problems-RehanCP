@@ -8,46 +8,57 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
- #include<iostream>
- using namespace std;
 class Solution {
 public:
-int*arr;
-int top;
-int bot;
 
-Solution(){
-arr=new int[50000];
-top=-1;
-bot=0;
-}
-    void reorderList(ListNode* head) {
-       ListNode*temp=head;
-       ListNode*tail=nullptr;
-       while(temp!=NULL){
-        top++;
-        arr[top]=temp->val;
-        temp=temp->next;
-       }
+    int size(ListNode*head){
+        ListNode*temp=new ListNode();
         temp=head;
-        int index=(top)/2;
-        int size=top;
-        while(index){
-            ListNode*newNode=new ListNode(arr[top]);
-            top--;
-            newNode->next=temp->next;
-            temp->next=newNode;
+        int cnt=0;
+        while(temp!=NULL){
+            cnt++;
+            temp=temp->next;
+        }
+
+        return cnt;
+    }
+    void reorderList(ListNode* head) {
+        stack<ListNode*>st;
+        int s=size(head);
+        int i=0;
+        if(s==1){
+            return;
+        }
+        ListNode*temp=head;
+        while(i<(s+1)/2 && temp!=NULL){
+            temp=temp->next;
+            i++;
+        }
+        ListNode*temp2=new ListNode();
+        temp2=temp;
+        while(temp2!=NULL){
+            ListNode*newNode=new ListNode();
+            newNode->val=temp2->val;
+            newNode->next=NULL;
+            st.push(newNode);
+            temp2=temp2->next;
+        }
+
+        temp->next=NULL;
+        temp=head;
+
+        while(!st.empty()){
+            cout<<st.top()->val<<" ";
+            st.top()->next=temp->next;
+            temp->next=st.top();
+            st.pop();
             temp=temp->next->next;
-            index--;
         }
-        if(size%2==0){
-        temp->next=nullptr;
-        }else{
-        temp->next->next=nullptr;
+        temp=head;
+        while(temp->next->next!=NULL){
+            temp=temp->next;
         }
+        temp->next=NULL;
 
-     
-
-      
     }
 };
