@@ -11,6 +11,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | [0002-add-two-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0206-reverse-linked-list) |
@@ -55,6 +56,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
 ## Two Pointers
@@ -95,11 +97,13 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
