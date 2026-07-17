@@ -168,4 +168,20 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0707-design-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
