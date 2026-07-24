@@ -39,6 +39,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | [0033-search-in-rotated-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -57,6 +58,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
 ## Two Pointers
@@ -128,6 +130,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | [0003-longest-substring-without-repeating-characters](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0242-valid-anagram) |
@@ -176,6 +179,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | ------- |
 | [0100-same-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -194,5 +198,6 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | ------- |
 | [0100-same-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
