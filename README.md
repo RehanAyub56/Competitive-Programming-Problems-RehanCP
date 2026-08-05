@@ -61,6 +61,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | [0004-median-of-two-sorted-arrays](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
 ## Two Pointers
@@ -245,4 +246,8 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | ------- |
 | [0039-combination-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
