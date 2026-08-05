@@ -22,6 +22,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | [0002-add-two-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -93,6 +94,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0221-maximal-square) |
 ## Sorting
@@ -250,4 +252,8 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0191-number-of-1-bits) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
