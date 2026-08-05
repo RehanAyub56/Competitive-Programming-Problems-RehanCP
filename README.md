@@ -40,6 +40,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | [0039-combination-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0128-longest-consecutive-sequence) |
@@ -79,6 +80,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | [0003-longest-substring-without-repeating-characters](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0242-valid-anagram) |
@@ -148,6 +150,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | ------- |
 | [0048-rotate-image](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0221-maximal-square) |
 ## Greedy
 |  |
@@ -193,6 +196,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -240,4 +244,5 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
