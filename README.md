@@ -87,6 +87,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | [0125-valid-palindrome](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0424-longest-repeating-character-replacement) |
@@ -187,6 +188,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0707-design-linked-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0707-design-linked-list) |
 ## Tree
@@ -209,6 +211,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | [0098-validate-binary-search-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -266,4 +269,5 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
