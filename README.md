@@ -38,6 +38,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | [0011-container-with-most-water](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0063-unique-paths-ii) |
@@ -60,6 +61,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
