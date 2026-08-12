@@ -56,6 +56,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0238-product-of-array-except-self](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0417-pacific-atlantic-water-flow) |
+| [0643-maximum-average-subarray-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0735-asteroid-collision) |
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0994-rotting-oranges) |
@@ -200,6 +201,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0003-longest-substring-without-repeating-characters](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0643-maximum-average-subarray-i) |
 ## Design
 |  |
 | ------- |
