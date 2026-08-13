@@ -42,6 +42,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0033-search-in-rotated-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0073-set-matrix-zeroes) |
@@ -152,6 +153,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | ------- |
 | [0001-two-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
