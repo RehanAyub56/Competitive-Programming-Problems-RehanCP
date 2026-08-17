@@ -26,6 +26,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0048-rotate-image](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0062-unique-paths) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
@@ -354,5 +355,6 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 ## Number Theory
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
