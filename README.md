@@ -119,6 +119,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0003-longest-substring-without-repeating-characters](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0125-valid-palindrome) |
