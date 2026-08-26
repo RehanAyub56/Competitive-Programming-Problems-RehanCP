@@ -29,6 +29,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0007-reverse-integer](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0070-climbing-stairs) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -129,6 +130,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0032-longest-valid-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0221-maximal-square) |
@@ -383,4 +385,8 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2487-remove-nodes-from-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
