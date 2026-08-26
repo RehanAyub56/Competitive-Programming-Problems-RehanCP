@@ -34,6 +34,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0231-power-of-two](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0342-power-of-four) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
+| [2119-a-number-after-a-double-reversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2119-a-number-after-a-double-reversal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
