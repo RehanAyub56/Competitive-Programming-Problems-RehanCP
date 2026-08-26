@@ -31,6 +31,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0048-rotate-image](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0342-power-of-four) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
@@ -68,6 +69,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0238-product-of-array-except-self) |
@@ -387,6 +389,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
@@ -397,4 +400,20 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
