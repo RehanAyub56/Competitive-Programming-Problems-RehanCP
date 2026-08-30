@@ -69,6 +69,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0200-number-of-islands) |
@@ -348,6 +349,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0342-power-of-four) |
