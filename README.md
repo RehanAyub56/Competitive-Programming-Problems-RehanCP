@@ -78,6 +78,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0213-house-robber-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0622-design-circular-queue](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0622-design-circular-queue) |
@@ -352,6 +353,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0136-single-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0342-power-of-four) |
 ## Combinatorics
 |  |
