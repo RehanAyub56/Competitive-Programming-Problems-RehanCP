@@ -104,6 +104,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0023-merge-k-sorted-lists](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
@@ -351,6 +352,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0260-single-number-iii) |
