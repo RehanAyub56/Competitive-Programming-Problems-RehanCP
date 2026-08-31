@@ -36,6 +36,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0204-count-primes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0412-fizz-buzz) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2119-a-number-after-a-double-reversal) |
@@ -357,6 +358,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0231-power-of-two](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0371-sum-of-two-integers) |
 ## Combinatorics
 |  |
 | ------- |
