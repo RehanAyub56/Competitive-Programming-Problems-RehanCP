@@ -67,6 +67,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0039-combination-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0079-word-search) |
@@ -243,6 +244,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0079-word-search) |
@@ -394,6 +396,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0735-asteroid-collision) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2181-merge-nodes-in-between-zeros) |
