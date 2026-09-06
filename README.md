@@ -98,6 +98,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0994-rotting-oranges](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0994-rotting-oranges) |
 | [1833-maximum-ice-cream-bars](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
+| [2284-sender-with-largest-word-count](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2284-sender-with-largest-word-count) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -160,6 +161,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2284-sender-with-largest-word-count](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2284-sender-with-largest-word-count) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
@@ -225,6 +227,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
+| [2284-sender-with-largest-word-count](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2284-sender-with-largest-word-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -244,6 +247,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0424-longest-repeating-character-replacement](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2284-sender-with-largest-word-count](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2284-sender-with-largest-word-count) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## Quickselect
 |  |
