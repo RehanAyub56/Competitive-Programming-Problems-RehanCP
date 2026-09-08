@@ -80,6 +80,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0198-house-robber](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0215-kth-largest-element-in-an-array) |
@@ -109,6 +110,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0033-search-in-rotated-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -289,12 +291,14 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0238-product-of-array-except-self) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0643-maximum-average-subarray-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
