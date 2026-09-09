@@ -71,6 +71,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0054-spiral-matrix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -136,6 +137,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0015-3sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0141-linked-list-cycle) |
@@ -188,6 +190,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | ------- |
 | [0015-3sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0242-valid-anagram) |
@@ -504,4 +507,12 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
