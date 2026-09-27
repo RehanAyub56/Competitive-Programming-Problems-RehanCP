@@ -91,6 +91,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0238-product-of-array-except-self](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0268-missing-number) |
+| [0304-range-sum-query-2d-immutable](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0622-design-circular-queue](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0622-design-circular-queue) |
@@ -286,6 +287,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0200-number-of-islands](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0221-maximal-square) |
+| [0304-range-sum-query-2d-immutable](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0994-rotting-oranges) |
 ## Greedy
@@ -312,6 +314,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0304-range-sum-query-2d-immutable) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Sliding Window
 |  |
@@ -330,6 +333,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0208-implement-trie-prefix-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0304-range-sum-query-2d-immutable](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0304-range-sum-query-2d-immutable) |
 | [0622-design-circular-queue](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0707-design-linked-list) |
