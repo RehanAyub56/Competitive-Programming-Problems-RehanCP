@@ -117,6 +117,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4039-sum-of-decoded-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4039-sum-of-decoded-numbers) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -280,6 +281,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [2284-sender-with-largest-word-count](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2284-sender-with-largest-word-count) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3483-unique-3-digit-even-numbers) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Quickselect
 |  |
 | ------- |
