@@ -105,6 +105,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0994-rotting-oranges) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
 | [2284-sender-with-largest-word-count](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2284-sender-with-largest-word-count) |
@@ -177,6 +178,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2284-sender-with-largest-word-count](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2284-sender-with-largest-word-count) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
@@ -270,6 +272,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2284-sender-with-largest-word-count](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2284-sender-with-largest-word-count) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3483-unique-3-digit-even-numbers) |
