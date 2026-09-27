@@ -45,6 +45,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4039-sum-of-decoded-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4039-sum-of-decoded-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -114,6 +115,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [3483-unique-3-digit-even-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3483-unique-3-digit-even-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4039-sum-of-decoded-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4039-sum-of-decoded-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -456,6 +458,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [2181-merge-nodes-in-between-zeros](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4039-sum-of-decoded-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4039-sum-of-decoded-numbers) |
 ## Graph Theory
 |  |
 | ------- |
