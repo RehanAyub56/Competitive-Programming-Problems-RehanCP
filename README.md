@@ -33,6 +33,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0048-rotate-image](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0268-missing-number) |
@@ -84,6 +85,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0136-single-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0204-count-primes) |
@@ -167,6 +169,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0148-sort-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0881-boats-to-save-people) |
