@@ -40,6 +40,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0342-power-of-four](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0412-fizz-buzz) |
+| [0537-complex-number-multiplication](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0537-complex-number-multiplication) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2119-a-number-after-a-double-reversal) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -196,6 +197,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0424-longest-repeating-character-replacement) |
+| [0537-complex-number-multiplication](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0537-complex-number-multiplication) |
 | [0647-palindromic-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1021-remove-outermost-parentheses) |
@@ -490,6 +492,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | ------- |
 | [0054-spiral-matrix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0412-fizz-buzz) |
+| [0537-complex-number-multiplication](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0735-asteroid-collision) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
