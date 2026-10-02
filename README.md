@@ -226,6 +226,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0338-counting-bits](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0377-combination-sum-iv) |
 | [0647-palindromic-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0647-palindromic-substrings) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Sorting
 |  |
 | ------- |
