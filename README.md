@@ -183,6 +183,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0076-minimum-window-substring) |
@@ -210,6 +211,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0062-unique-paths) |
@@ -461,6 +463,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0212-word-search-ii) |
@@ -517,6 +520,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0032-longest-valid-parentheses) |
 ## Minimax
 |  |
