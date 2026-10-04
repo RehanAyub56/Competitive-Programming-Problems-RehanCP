@@ -174,6 +174,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0151-reverse-words-in-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0881-boats-to-save-people) |
@@ -199,6 +200,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0412-fizz-buzz](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0424-longest-repeating-character-replacement) |
 | [0537-complex-number-multiplication](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0537-complex-number-multiplication) |
+| [0567-permutation-in-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1021-remove-outermost-parentheses) |
@@ -304,6 +306,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0268-missing-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -372,6 +375,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0076-minimum-window-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
