@@ -123,6 +123,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3483-unique-3-digit-even-numbers) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3843-first-element-with-unique-frequency](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3843-first-element-with-unique-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4039-sum-of-decoded-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4039-sum-of-decoded-numbers) |
@@ -288,6 +289,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [1833-maximum-ice-cream-bars](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
 | [2284-sender-with-largest-word-count](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2284-sender-with-largest-word-count) |
+| [3843-first-element-with-unique-frequency](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3843-first-element-with-unique-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -314,6 +316,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [2284-sender-with-largest-word-count](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2284-sender-with-largest-word-count) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3483-unique-3-digit-even-numbers) |
+| [3843-first-element-with-unique-frequency](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3843-first-element-with-unique-frequency) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Quickselect
