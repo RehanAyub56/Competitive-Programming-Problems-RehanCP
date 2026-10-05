@@ -85,6 +85,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0189-rotate-array) |
@@ -225,6 +226,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0120-triangle](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0221-maximal-square) |
