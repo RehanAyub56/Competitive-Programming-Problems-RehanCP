@@ -110,6 +110,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0643-maximum-average-subarray-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0735-asteroid-collision) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0881-boats-to-save-people](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0881-boats-to-save-people) |
@@ -348,6 +349,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0221-maximal-square](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0994-rotting-oranges) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Greedy
@@ -372,6 +374,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0695-max-area-of-island) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -433,6 +436,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0695-max-area-of-island) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -447,6 +451,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0226-invert-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
