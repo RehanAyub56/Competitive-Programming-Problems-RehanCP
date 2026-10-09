@@ -101,6 +101,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0238-product-of-array-except-self](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0377-combination-sum-iv) |
@@ -144,6 +145,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -234,6 +236,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0198-house-robber](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0377-combination-sum-iv) |
 | [0647-palindromic-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0647-palindromic-substrings) |
@@ -629,4 +632,8 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0543-diameter-of-binary-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
