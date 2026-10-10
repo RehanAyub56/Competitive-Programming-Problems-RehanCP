@@ -114,6 +114,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0881-boats-to-save-people](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
@@ -361,6 +362,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | ------- |
 | [0011-container-with-most-water](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0860-lemonade-change](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
