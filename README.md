@@ -71,6 +71,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0053-maximum-subarray) |
@@ -496,6 +497,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | ------- |
 | [0022-generate-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0212-word-search-ii) |
 ## Bit Manipulation
