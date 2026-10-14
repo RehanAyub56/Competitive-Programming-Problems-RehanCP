@@ -106,6 +106,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0268-missing-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0304-range-sum-query-2d-immutable) |
+| [0322-coin-change](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0377-combination-sum-iv) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0417-pacific-atlantic-water-flow) |
@@ -242,6 +243,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0213-house-robber-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0377-combination-sum-iv) |
 | [0647-palindromic-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0647-palindromic-substrings) |
@@ -469,6 +471,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0210-course-schedule-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0994-rotting-oranges) |
@@ -648,4 +651,12 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0300-longest-increasing-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
