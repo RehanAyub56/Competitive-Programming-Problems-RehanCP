@@ -130,6 +130,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2284-sender-with-largest-word-count](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2284-sender-with-largest-word-count) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -192,6 +193,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0647-palindromic-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0881-boats-to-save-people) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -549,6 +551,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0412-fizz-buzz](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0735-asteroid-collision) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
