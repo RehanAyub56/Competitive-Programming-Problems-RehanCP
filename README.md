@@ -41,6 +41,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0371-sum-of-two-integers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0537-complex-number-multiplication) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2119-a-number-after-a-double-reversal) |
@@ -124,6 +125,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0994-rotting-oranges) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1833-maximum-ice-cream-bars) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -252,6 +254,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0377-combination-sum-iv](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0377-combination-sum-iv) |
 | [0647-palindromic-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0647-palindromic-substrings) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -400,6 +403,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0238-product-of-array-except-self](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0304-range-sum-query-2d-immutable) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Sliding Window
 |  |
 | ------- |
