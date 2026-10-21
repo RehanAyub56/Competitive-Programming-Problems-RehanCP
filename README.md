@@ -137,6 +137,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [2348-number-of-zero-filled-subarrays](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3483-unique-3-digit-even-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3843-first-element-with-unique-frequency](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3843-first-element-with-unique-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -273,6 +274,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [1833-maximum-ice-cream-bars](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1833-maximum-ice-cream-bars) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -381,6 +383,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [1833-maximum-ice-cream-bars](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
