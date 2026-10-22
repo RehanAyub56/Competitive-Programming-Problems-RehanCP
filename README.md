@@ -124,6 +124,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0881-boats-to-save-people](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0997-find-the-town-judge) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -338,6 +339,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0424-longest-repeating-character-replacement](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
+| [0997-find-the-town-judge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0997-find-the-town-judge) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -570,6 +572,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0133-clone-graph](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0210-course-schedule-ii) |
+| [0997-find-the-town-judge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
