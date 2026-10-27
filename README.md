@@ -143,6 +143,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [3843-first-element-with-unique-frequency](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3843-first-element-with-unique-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4039-sum-of-decoded-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4039-sum-of-decoded-numbers) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
@@ -176,6 +177,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -296,6 +298,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0023-merge-k-sorted-lists](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -409,6 +412,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0304-range-sum-query-2d-immutable](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0304-range-sum-query-2d-immutable) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -678,4 +682,12 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0322-coin-change) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->
