@@ -67,6 +67,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0001-two-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0033-search-in-rotated-sorted-array) |
@@ -209,6 +210,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0058-length-of-last-word) |
@@ -561,6 +563,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0211-design-add-and-search-words-data-structure) |
