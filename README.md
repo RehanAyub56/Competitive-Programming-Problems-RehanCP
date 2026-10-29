@@ -78,6 +78,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0048-rotate-image](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0073-set-matrix-zeroes) |
@@ -241,6 +242,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0022-generate-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0064-minimum-path-sum) |
@@ -387,6 +389,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0860-lemonade-change](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0881-boats-to-save-people) |
