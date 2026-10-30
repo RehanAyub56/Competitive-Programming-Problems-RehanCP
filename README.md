@@ -227,6 +227,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0537-complex-number-multiplication](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0537-complex-number-multiplication) |
 | [0567-permutation-in-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0647-palindromic-substrings) |
@@ -348,6 +349,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0268-missing-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
 | [0997-find-the-town-judge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0997-find-the-town-judge) |
@@ -431,6 +433,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0076-minimum-window-substring](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0658-find-k-closest-elements) |
