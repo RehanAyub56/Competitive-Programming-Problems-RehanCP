@@ -41,6 +41,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0371-sum-of-two-integers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0537-complex-number-multiplication) |
+| [1390-four-divisors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1390-four-divisors) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1952-three-divisors) |
@@ -129,6 +130,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0997-find-the-town-judge) |
+| [1390-four-divisors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1390-four-divisors) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -665,6 +667,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0204-count-primes) |
+| [1390-four-divisors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1952-three-divisors) |
 ## Prime Number Sieve
 |  |
@@ -724,5 +727,6 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 ## Prime Factorization
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
