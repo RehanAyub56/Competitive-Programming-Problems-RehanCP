@@ -43,6 +43,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0537-complex-number-multiplication](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0537-complex-number-multiplication) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1952-three-divisors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1952-three-divisors) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2119-a-number-after-a-double-reversal) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -637,6 +638,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1952-three-divisors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
@@ -653,6 +655,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | ------- |
 | [0204-count-primes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1952-three-divisors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1952-three-divisors) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3483-unique-3-digit-even-numbers) |
 ## Primality Test
 |  |
@@ -662,6 +665,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1952-three-divisors) |
 ## Prime Number Sieve
 |  |
 | ------- |
@@ -717,4 +721,8 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
