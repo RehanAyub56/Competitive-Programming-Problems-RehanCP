@@ -33,6 +33,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0048-rotate-image](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0231-power-of-two) |
