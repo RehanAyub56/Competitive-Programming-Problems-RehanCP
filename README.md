@@ -125,6 +125,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0658-find-k-closest-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -238,6 +239,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0567-permutation-in-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1021-remove-outermost-parentheses) |
 | [1446-consecutive-characters](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1446-consecutive-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -286,6 +288,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1833-maximum-ice-cream-bars) |
@@ -359,6 +362,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0438-find-all-anagrams-in-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0721-accounts-merge) |
 | [0997-find-the-town-judge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0997-find-the-town-judge) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -424,6 +428,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0130-surrounded-regions](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0721-accounts-merge) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -499,6 +504,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0543-diameter-of-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0721-accounts-merge) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -521,6 +527,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0417-pacific-atlantic-water-flow](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0721-accounts-merge) |
 | [0994-rotting-oranges](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
