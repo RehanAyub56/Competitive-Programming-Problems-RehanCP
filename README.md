@@ -154,6 +154,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3819-rotate-non-negative-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3819-rotate-non-negative-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3843-first-element-with-unique-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -622,6 +623,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [2161-partition-array-according-to-given-pivot](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [3819-rotate-non-negative-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4039-sum-of-decoded-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4039-sum-of-decoded-numbers) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4052-cyclically-shift-rows-and-columns) |
