@@ -49,6 +49,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1952-three-divisors) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2119-a-number-after-a-double-reversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2119-a-number-after-a-double-reversal) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -143,6 +144,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2029-stone-game-ix](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2029-stone-game-ix) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2284-sender-with-largest-word-count](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2284-sender-with-largest-word-count) |
@@ -296,6 +298,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1833-maximum-ice-cream-bars) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -403,6 +406,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0463-island-perimeter](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0994-rotting-oranges) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Greedy
 |  |
