@@ -53,6 +53,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [2119-a-number-after-a-double-reversal](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2119-a-number-after-a-double-reversal) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4039-sum-of-decoded-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/4039-sum-of-decoded-numbers) |
@@ -152,6 +153,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3483-unique-3-digit-even-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3819-rotate-non-negative-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3819-rotate-non-negative-elements) |
