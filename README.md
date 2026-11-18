@@ -254,6 +254,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2284-sender-with-largest-word-count](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2284-sender-with-largest-word-count) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Dynamic Programming
 |  |
 | ------- |
