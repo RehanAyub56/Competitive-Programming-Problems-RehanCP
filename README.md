@@ -252,6 +252,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2284-sender-with-largest-word-count](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2284-sender-with-largest-word-count) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -629,6 +630,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0735-asteroid-collision](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0735-asteroid-collision) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3819-rotate-non-negative-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
