@@ -137,6 +137,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0997-find-the-town-judge) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1390-four-divisors) |
 | [1441-build-an-array-with-stack-operations](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1441-build-an-array-with-stack-operations) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -302,6 +303,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0721-accounts-merge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1833-maximum-ice-cream-bars) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -345,6 +347,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0347-top-k-frequent-elements](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1833-maximum-ice-cream-bars) |
@@ -376,6 +379,7 @@ LeetCode Profile Link   : https://leetcode.com/u/Rehan_Ayub_CP/ <br><br>
 | [0692-top-k-frequent-words](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0721-accounts-merge) |
 | [0997-find-the-town-judge](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/0997-find-the-town-judge) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RehanAyub56/Competitive-Programming-Problems-RehanCP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
